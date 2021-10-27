@@ -1,8 +1,6 @@
 //
 //  AMOrganizer.swift
-//  Assima Mall
-//
-//  Created by Mobiiworld on 15/07/21.
+
 //
 
 import Foundation

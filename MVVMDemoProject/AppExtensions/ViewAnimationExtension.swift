@@ -1,9 +1,6 @@
 //
 //  ViewAnimationExtension.swift
-//  UAEProLeague
-//
-//  Created by iMac on 23/06/20.
-//  Copyright © 2020 Mobiiworld. All rights reserved.
+
 //
 
 import Foundation

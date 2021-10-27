@@ -1,9 +1,6 @@
 //
 //  ViewUtils.swift
-//  UAEProLeague
-//
-//  Created by Mazen on 4/24/20.
-//  Copyright © 2020 Mobiiworld. All rights reserved.
+
 //
 
 import UIKit

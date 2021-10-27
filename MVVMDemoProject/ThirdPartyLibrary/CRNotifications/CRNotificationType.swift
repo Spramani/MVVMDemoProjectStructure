@@ -1,9 +1,7 @@
 //
 //  CRNotificationType.swift
 //  CRNotifications
-//
-//  Created by Casper Riboe on 14/09/2017.
-//    LICENSE : MIT
+
 //
 
 import Foundation

@@ -1,8 +1,6 @@
 //
 //  DateField.swift
-//  Assima Mall
-//
-//  Created by Mobiiworld on 16/08/21.
+
 //
 
 import Foundation

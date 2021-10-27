@@ -1,9 +1,6 @@
 //
 //  UIFont+Extension.swift
-//  rider
-//
-//  Created by b2c on 9/27/17.
-//  Copyright © 2017 Akhil Jayaram. All rights reserved.
+
 //
 
 import UIKit

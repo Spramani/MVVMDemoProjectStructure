@@ -1,9 +1,6 @@
 //
 //  BaseAPIManager.swift
-//  UAEProLeague
-//
-//  Created by Mobiiworld on 30/03/2020.
-//  Copyright © 2020 Mobiiworld. All rights reserved.
+
 //
 
 import Foundation

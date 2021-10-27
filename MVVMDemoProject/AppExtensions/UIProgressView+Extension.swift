@@ -1,9 +1,6 @@
 //
 //  UIProgressView+Extension.swift
-//  UAEProLeague
-//
-//  Created by Mobiiworld on 08/05/20.
-//  Copyright © 2020 Mobiiworld. All rights reserved.
+
 //
 
 import UIKit

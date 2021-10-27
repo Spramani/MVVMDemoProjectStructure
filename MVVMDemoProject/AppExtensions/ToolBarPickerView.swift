@@ -1,8 +1,6 @@
 //
 //  ToolBarPickerView.swift
-//  MOM
-//
-//  Created by Mobiitech on 14/04/21.
+
 //
 
 import Foundation

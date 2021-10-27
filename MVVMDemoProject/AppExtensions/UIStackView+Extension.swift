@@ -1,8 +1,5 @@
 //
 //  UIStackView+Extension.swift
-//  ASAQ
-//
-//  Created by Mobiiworld on 06/12/2019.
 //
 
 import UIKit

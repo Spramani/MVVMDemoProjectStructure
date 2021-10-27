@@ -1,9 +1,6 @@
 //
 //  UIViewController+Extension.swift
-//  rider
-//
-//  Created by b2c on 10/1/17.
-//  Copyright © 2017 Akhil Jayaram. All rights reserved.
+
 //
 
 import Foundation
@@ -21,11 +18,7 @@ extension UITableViewCell
 }
 extension UIViewController
 {
-    
-   
-    
-    
-    class func fromNib<T: UIViewController>() -> T {
+        class func fromNib<T: UIViewController>() -> T {
         let name = String(describing: T.self)
         return T(nibName: name, bundle: Bundle.main)
     }

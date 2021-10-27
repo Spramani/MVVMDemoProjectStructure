@@ -1,8 +1,6 @@
 //
 //  AppImageView.swift
-//  ASAQ
-//
-//  Created by Mobiiworld on 8/30/19.
+
 //
 
 import UIKit

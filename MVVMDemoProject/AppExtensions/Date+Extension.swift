@@ -1,9 +1,6 @@
 //
 //  Date+Extension.swift
-//  rider
-//
-//  Created by Admin on 12/28/17.
-//  Copyright © 2017 Akhil Jayaram. All rights reserved.
+
 //
 
 import Foundation

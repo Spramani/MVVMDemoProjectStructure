@@ -1,8 +1,6 @@
 //
 //  NotificationCenter+Extension.swift
-//  ASAQ
-//
-//  Created by mobiiworld on 01/10/19.
+
 //
 
 import Foundation

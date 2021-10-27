@@ -1,14 +1,11 @@
 //
 //  development.xcconfig
-//  Assima Mall
-//
-//  Created by Mobiiworld on 13/07/21.
-//
 
-#include "Pods/Target Support Files/Pods-Assima Mall/Pods-Assima Mall.debug.xcconfig"
+#include "Pods/Target Support Files/Pods-"
 
-ROOT_DOMAIN = myapp.dev.mobiiworld.com
-ROOT_API_URL = https:/$()/asm-backend.dev.mobiiworld.com/
-MY_APP_ICON = AppIcon
-MY_APP_NAME = Assima Mall Beta
+//ROOT_DOMAIN = myapp.dev.mobiiworld.com
+//ROOT_API_URL = https:/$()/asm-backend.dev.mobiiworld.com/
+//MY_APP_ICON = AppIcon
+//MY_APP_NAME = demo beta
+
 //EXCLUDED_ARCHS[sdk=iphonesimulator*] = arm64

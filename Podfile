@@ -6,11 +6,15 @@ target 'MVVMDemoProject' do
   use_frameworks!
 
   # Pods for MVVMDemoProject
-  pod 'Alamofire'#, '~> 4.9.1'
+  pod 'Kingfisher'
+  pod 'SnapKit'
+  
   pod 'SwiftyJSON'
- pod 'NVActivityIndicatorView', '~> 4.8.0'
- pod 'SnapKit'
   pod 'ReachabilitySwift'
-pod 'Kingfisher'
+  pod 'NVActivityIndicatorView', '~> 4.8.0'
+  pod 'Alamofire'
+  pod 'FloatingPanel', '~> 1.7.6'
+  pod 'IQKeyboardManagerSwift'
+  pod 'SkyFloatingLabelTextField', '~> 3.0'
 
 end

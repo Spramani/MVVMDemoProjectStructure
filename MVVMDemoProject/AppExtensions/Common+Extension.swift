@@ -1,9 +1,6 @@
 //
 //  Common+Extension.swift
-//  driver
-//
-//  Created by Akhil on 1/20/19.
-//  Copyright © 2019 lymo. All rights reserved.
+
 //
 
 import Foundation

@@ -1,8 +1,6 @@
 //
 //  AppTextView.swift
-//  ASAQ
-//
-//  Created by mobiiworld on 09/09/19.
+
 //
 
 import UIKit

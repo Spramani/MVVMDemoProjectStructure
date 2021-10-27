@@ -1,8 +1,6 @@
 //
 //  test.swift
-//  MVVMDemoProject
-//
-//  Created by Adsum MAC 2 on 15/09/21.
+
 //
 
 import Foundation

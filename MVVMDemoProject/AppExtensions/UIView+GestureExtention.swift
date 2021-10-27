@@ -1,9 +1,5 @@
 //
 //  UIView+GestureExtention.swift
-//  rider
-//
-//  Created by b2c on 1/6/18.
-//  Copyright © 2018 Akhil Jayaram. All rights reserved.
 //
 
 import UIKit

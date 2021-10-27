@@ -1,8 +1,6 @@
 //
 //  AppButton.swift
-//  ASAQ
-//
-//  Created by Mobiiworld on 8/14/19.
+
 //
 
 import UIKit

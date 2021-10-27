@@ -1,20 +1,34 @@
 //
 //  AppDelegate.swift
-//  MVVMDemoProject
-//
-//  Created by Adsum MAC 2 on 15/09/21.
+
 //
 
 import UIKit
+import IQKeyboardManagerSwift
 
 @available(iOS 13.0, *)
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
+    var window: UIWindow?
 
+    static var appdelegate: AppDelegate {
+        get {
+            return UIApplication.shared.delegate as! AppDelegate
+        }
+    }
+    
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        
+//        Thread.sleep(forTimeInterval: 2.0)
+        
+        IQKeyboardManager.shared.enable = true
+        IQKeyboardManager.shared.shouldResignOnTouchOutside = true
+        IQKeyboardManager.shared.enableAutoToolbar = false
+        IQKeyboardManager.shared.shouldShowToolbarPlaceholder = false
+       
         return true
     }
 

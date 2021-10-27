@@ -1,9 +1,6 @@
 //
 //  UILabel+Extension.swift
-//  driver
-//
-//  Created by Akhil on 12/5/18.
-//  Copyright © 2018 lymo. All rights reserved.
+
 //
 
 import Foundation

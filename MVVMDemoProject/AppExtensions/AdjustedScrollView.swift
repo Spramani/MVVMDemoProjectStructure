@@ -1,9 +1,6 @@
 //
 //  AdjustedScrollView.swift
-//  UAEProLeague
-//
-//  Created by Dixit Rathod on 09/06/20.
-//  Copyright © 2020 Mobiiworld. All rights reserved.
+
 //
 
 import UIKit

@@ -1,9 +1,6 @@
 //
 //  RadioButton.swift
-// Global Village
-//
-//  Created by Mazen on 4/23/20.
-//  Copyright © 2020 Mobiiworld. All rights reserved.
+
 //
 
 import UIKit

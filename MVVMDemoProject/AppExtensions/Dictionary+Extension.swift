@@ -1,9 +1,6 @@
 //
 //  Dictionary+Extension.swift
-//  rider
-//
-//  Created by b2c on 10/1/17.
-//  Copyright © 2017 Akhil Jayaram. All rights reserved.
+
 //
 
 import Foundation

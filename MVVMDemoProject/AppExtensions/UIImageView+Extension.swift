@@ -1,9 +1,6 @@
 //
 //  UIImage+Extension.swift
-//  rider
-//
-//  Created by b2c on 10/3/17.
-//  Copyright © 2017 Akhil Jayaram. All rights reserved.
+
 //
 
 import UIKit

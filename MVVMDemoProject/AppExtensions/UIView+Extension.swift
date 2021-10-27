@@ -1,9 +1,6 @@
 //
 //  UIView+Extension.swift
-//  rider
-//
-//  Created by b2c on 10/12/17.
-//  Copyright © 2017 Akhil Jayaram. All rights reserved.
+
 //
 
 import UIKit
@@ -183,35 +180,7 @@ public enum ViewPoint {
             layer.borderWidth = newValue
         }
     }
-    
-//    @IBInspectable public var bgColorAccentSec:Bool
-//        {
-//        get {
-//            return  self.backgroundColor == UIColor.AppColor.accentSec
-//        }
-//        set {
-//            if(newValue)
-//            {
-//                self.backgroundColor = UIColor.AppColor.accentSec
-//            }
-//
-//        }
-//    }
-    
-    
-//    @IBInspectable public var bgColorAccentThird:Bool
-//        {
-//        get {
-//            return  self.backgroundColor == UIColor.AppColor.accentSec
-//        }
-//        set {
-//            if(newValue)
-//            {
-//                self.backgroundColor = UIColor.AppColor.accentSec
-//            }
-//            
-//        }
-//    }
+   
     
     @IBInspectable public var addBottomCornerRedius: CGFloat{
         get{

@@ -1,9 +1,6 @@
 //
 //  Logger.swift
-//  rider
-//
-//  Created by b2c on 9/28/17.
-//  Copyright © 2017 ColdMagma. All rights reserved.
+
 //
 
 import UIKit

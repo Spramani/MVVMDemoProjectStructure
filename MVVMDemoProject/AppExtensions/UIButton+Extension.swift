@@ -1,9 +1,6 @@
 //
 //  UIButton+Extension.swift
-//  UAEProLeague
-//
-//  Created by mobiiworld on 12/05/20.
-//  Copyright © 2020 Mobiiworld. All rights reserved.
+
 //
 
 import Foundation

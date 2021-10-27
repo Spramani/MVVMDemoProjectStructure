@@ -1,9 +1,6 @@
 //
 //  UIImage+Extension.swift
-//  driver
-//
-//  Created by mobii on 24/10/18.
-//  Copyright © 2018 lymo. All rights reserved.
+
 //
 
 import Foundation

@@ -1,8 +1,6 @@
 //
 //  AppConfig.swift
-//  Assima Mall
-//
-//  Created by Mobiiworld on 13/07/21.
+
 //
 
 import Foundation
